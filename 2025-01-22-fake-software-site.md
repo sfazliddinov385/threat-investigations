@@ -5,8 +5,6 @@
 **Date analyzed:** [date]
 **Tool:** Wireshark
 
-*Note to self: check the answer key and confirm all six findings before publishing.*
-
 ---
 
 ## What happened
@@ -67,9 +65,9 @@ Someone at the company searched for Google Authenticator. They clicked a fake si
 - Domain: google-authenticator.burleson-appliance.net
 - C2 IPs: 104.21.16.1, 104.21.32.1, 104.21.48.1, 104.21.64.1, 104.21.80.1, 104.21.96.1, 104.21.112.1
 
-## What I would do (Tier 1)
+## What I'd do next
 
 - Take 10.1.17.215 off the network.
 - Assume the user's password was stolen. Reset it.
 - Block the fake domain.
-- Send it to Tier 2 to identify the malware and decide if the PC needs a wipe.
+- Send it up to identify the malware and decide if the PC needs a wipe.
