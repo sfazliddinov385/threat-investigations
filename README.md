@@ -1,4 +1,14 @@
-# Network Traffic Investigations
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Network+Traffic+Investigations;Real+malicious+PCAPs%2C+end+to+end;Find+the+host.+Find+the+user.+Contain+it." alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Tool-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Source-malware--traffic--analysis.net-FF4088?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-SOC%20Analysis-success?style=for-the-badge" />
+</p>
+
+---
 
 Real malicious packet captures, investigated end to end. For each one I work out what happened, which machine was hit, who was on it, and what I'd do about it.
 
