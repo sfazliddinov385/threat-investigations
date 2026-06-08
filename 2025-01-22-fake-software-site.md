@@ -1,8 +1,8 @@
 # Incident Report: Fake Google Authenticator Infection
 
 **Source capture:** [malware-traffic-analysis.net, 2025-01-22 exercise](https://www.malware-traffic-analysis.net/2025/01/22/index.html)
-**Analyst:** [your name]
-**Date analyzed:** [date]
+**Analyst:** [Sarvarbek]
+**Date analyzed:** [6/6/2026]
 **Tool:** Wireshark
 
 ---
